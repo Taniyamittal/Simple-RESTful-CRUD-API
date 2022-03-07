@@ -13,3 +13,13 @@ Tools Used - VSCode , Postman
 4) PATCH /articles/:articleTitle: update a article partially
 5) DELETE /articles/:articleTitle: delete a article
 6) PUT /articles/:articleTitle: update a article completely
+
+# Images
+GET all articles
+![image](https://user-images.githubusercontent.com/49188247/157034412-650afa0a-be2d-4c03-9426-fd3bf58a199c.png)
+
+GET specific articles
+![image](https://user-images.githubusercontent.com/49188247/157034500-575cc503-add7-4aef-9e4c-c063ddb9c84f.png)
+
+POST a new article
+![image](https://user-images.githubusercontent.com/49188247/157034683-d663805c-6325-45e1-bdea-cc71b9d34d40.png)
